@@ -1,0 +1,16 @@
+{
+  "Players": [
+    {
+      "DiscordId": 123456790,
+      "LifetimePoints": 8,
+      "RoomsWon": 0,
+      "TourneysWon": 0
+    },
+    {
+      "DiscordId": 264168020862042113,
+      "LifetimePoints": 260,
+      "RoomsWon": 2,
+      "TourneysWon": 2
+    }
+  ]
+}

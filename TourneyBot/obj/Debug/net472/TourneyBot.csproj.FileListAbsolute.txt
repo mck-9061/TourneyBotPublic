@@ -1,0 +1,64 @@
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/TourneyBot.exe.config
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/TourneyBot.exe
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/TourneyBot.pdb
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Discord.Net.Commands.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Discord.Net.Core.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Discord.Net.Interactions.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Discord.Net.Rest.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Discord.Net.Webhook.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Discord.Net.WebSocket.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/Newtonsoft.Json.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Buffers.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Collections.Immutable.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Interactive.Async.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Linq.Async.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Memory.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Numerics.Vectors.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Reactive.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Runtime.CompilerServices.Unsafe.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Text.Encodings.Web.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Text.Json.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.Threading.Tasks.Extensions.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/bin/Debug/net472/System.ValueTuple.dll
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.csprojAssemblyReference.cache
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.exe.config
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.AssemblyInfoInputs.cache
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.AssemblyInfo.cs
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.csproj.CoreCompileInputs.cache
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.csproj.CopyComplete
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.exe
+/home/mck/TourneyBot/TourneyBot/TourneyBot/obj/Debug/net472/TourneyBot.pdb
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\TourneyBot.exe.config
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\TourneyBot.exe
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\TourneyBot.pdb
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Discord.Net.Commands.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Discord.Net.Core.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Discord.Net.Interactions.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Discord.Net.Rest.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Discord.Net.Webhook.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Discord.Net.WebSocket.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Buffers.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Collections.Immutable.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Interactive.Async.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Linq.Async.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Memory.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Reactive.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Text.Encodings.Web.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Text.Json.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\bin\Debug\net472\System.ValueTuple.dll
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.csprojAssemblyReference.cache
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.exe.config
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.AssemblyInfoInputs.cache
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.AssemblyInfo.cs
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.csproj.CopyComplete
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.exe
+C:\Users\Nathaniel Carter\RiderProjects\TourneyBot\TourneyBot\obj\Debug\net472\TourneyBot.pdb

@@ -1,0 +1,47 @@
+{
+  "Rounds": [
+    {
+      "AiLevel": 2,
+      "Items": 1,
+      "Speed": 3,
+      "Tracks": 6,
+      "Vehicles": 2,
+      "RaceCount": 3,
+      "Rooms": [
+        {
+          "PlayerIDs": [
+            123456789,
+            123456789
+          ]
+        },
+        {
+          "PlayerIDs": [
+            123456789,
+            123456789
+          ]
+        },
+        {
+          "PlayerIDs": [
+            123456789,
+            264168020862042113
+          ]
+        }
+      ],
+      "WinnerId": 0
+    }
+  ],
+  "PlayerIDs": [
+    123456789,
+    123456789,
+    123456789,
+    123456789,
+    123456789,
+    264168020862042113
+  ],
+  "RemainingPlayers": null,
+  "FinishedBuilding": true,
+  "IsRunning": true,
+  "reactionMessageId": 955550289094656030,
+  "AnnouncementChannelId": 955182484860043335,
+  "currentRound": 1
+}

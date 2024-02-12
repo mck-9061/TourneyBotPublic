@@ -1,0 +1,11 @@
+{
+  "Rounds": [],
+  "PlayerIDs": [],
+  "RemainingPlayers": null,
+  "FinishedBuilding": false,
+  "IsRunning": false,
+  "reactionMessageId": 0,
+  "AnnouncementChannelId": 0,
+  "currentRound": 1,
+  "CategoryId": 0
+}
